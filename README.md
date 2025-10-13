@@ -6,7 +6,7 @@
 ![Solana](https://img.shields.io/badge/Solana-3DDC84?logo=solana)
 
 ## 📈 GitHub Stats
-![Wieniec's GitHub stats](https://github-readme-stats.vercel.app/api?username=wieniec&show_icons=true&theme=tokyonight)
+![Wieniec's GitHub stats](https://github-readme-stats.vercel.app/api?username=wienieclaurowy&show_icons=true&theme=tokyonight)
 
 ## 🚀 Current Project
 [🔗 PumpFun Scanner Bot]– scans memecoins and looks for profit windows.
