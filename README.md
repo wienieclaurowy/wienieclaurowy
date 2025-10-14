@@ -28,7 +28,7 @@ I build games, tools and little experiments. I like moody lighting, readable cod
 ---
 
 ## ⚒️ Currently Building
-> **TBA**
+> **Solana Trader BOT**
 ---
 
 ## ✅ Completed (to showcase)
