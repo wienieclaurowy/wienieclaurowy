@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">Wieniec</h1>
-<p align="center"><em>Game developer crafting atmospheric worlds in Godot.</em></p>
+<p align="center"><em></em></p>
 
 <p align="center">
   <a href="https://godotengine.org">
@@ -25,14 +25,6 @@ I build games, tools and little experiments. I like moody lighting, readable cod
 - Focus: **systems design**, **AI behaviors**, **procedural level dressing**
 - Platform: **Linux (Arch)**
 
----
-
-## ⚒️ Currently Building
-> **Solana Trader BOT**
----
-
-## ✅ Completed (to showcase)
-> **TBA**
 ---
 
 ## 🧰 Tech Stack
@@ -69,12 +61,5 @@ I build games, tools and little experiments. I like moody lighting, readable cod
     <img alt="Contribution snake" src="dist/github-snake.svg" />
   </picture>
 </p>
-
----
-
-## 📫 Contact
-- **Itch:** _tba_
-- **X/Twitter:** _tba_
-- **Email:** _tba_
 
 ---
